@@ -3,6 +3,7 @@
 # 域名关键词直连
 DOMAIN-KEYWORD,xdsm
 DOMAIN-KEYWORD,ghproxy
+DOMAIN-KEYWORD,xiaoxiao
 
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
@@ -34,3 +35,7 @@ DOMAIN,ghproxy.com
 # 3322
 DOMAIN,3322.net
 DOMAIN,ip.3322.net
+
+# xx
+DOMAIN,cdn.nz.lu
+DOMAIN,xiaoxiao.jdsign.cf
